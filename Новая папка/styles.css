@@ -1,0 +1,231 @@
+/* p {
+	color: #ff0000;
+}
+h1{
+    color: green;
+}
+
+h2{
+    color: aqua;
+}
+
+h3{
+
+        color: rgb(255, 236, 114);
+
+}
+td {
+	width: 500px;
+	height: 100px;
+}
+
+h1{
+    text-align:  right;
+}
+
+h2{
+    text-align:  center;
+}
+
+th{
+    text-align: left;
+}
+
+
+td{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    width: 300;
+    
+}
+
+p {
+	font-style: italic;
+}
+
+h2{
+    
+    font-style: italic;
+
+}
+
+
+p {
+	font-size: 30px;
+}
+
+p {
+	font-family: "Comic Sans MS";
+}
+
+p {
+	font-size: 20px;
+	line-height: 1.5;
+	text-align: justify;
+	width: 400px;
+}
+
+p {
+    font: 13px/20px "Times New Roman";
+  }
+
+  p {
+    width: 300px;
+    font: bold 40px Arial;
+    color: red;
+  }
+
+  
+  p {
+    font: italic bold 40px/60px Arial;
+    text-indent: 50px;
+  }
+  p {
+	text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: none;
+} */
+
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+h2{
+    text-align: center;
+    color: green;
+}
+
+li > b {
+    color: red;
+}
+
+
+.block1 {
+	color: red;
+}
+.block2 {
+	color: green;
+}
+
+.eee {
+	font-size: 20px;
+	text-align: center;
+	font-family: Arial;
+}
+.zzz {
+	font-size: 30px;
+	text-align: center;
+	font-family: Arial;
+}
+.ggg {
+	font-size: 35px;
+	text-align: center;
+	font-family: Arial;
+}
+
+i{
+    color: red;
+}
+
+#elem1 {
+    color: red;
+}
+
+#elem2 {
+    color: green;
+}
+
+#elem3 {
+    color: blue;
+}
+#block {
+	color: red;
+	font-family: Arial;
+}
+.large {
+	font-size: 30px;
+}
+
+#elem h2 {
+    color: brown;
+}
+
+#elem > .text {
+    color: blueviolet;
+}
+
+
+#elem .text {
+    color: bisque;
+}
+
+
+.eee.zzz.eee {
+	color: red;
+}
+
+.eee.zzz {
+	color: red;
+}
+
+#elem.bbb.zzz {
+	color: red;
+}
+
+h2#elem.bbb {
+	color: red;
+}
+
+#block h1,
+#block h2 {
+	text-align: center;
+}
+
+
+#block h1, #block h2 {
+	text-align: center;
+}
+
+#block h1 {
+	font-size: 30px;
+}
+
+#block h2 {
+	font-size: 20px;
+}
+
+
+#block h1, #block h2, #block h3 {
+	text-align: center;
+}
+
+#block h2 {
+	color: blue;
+}
+
+#block h3 {
+	font-size: 16px;
+	color: red;
+}
+
+
+#block h1.eee, #block h2.zzz {
+	text-align: center;
+}
+
+#block h1.eee {
+	font-size: 30px;
+}
+
+#block h2.zzz {
+	font-size: 20px;
+}
